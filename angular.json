@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "efacturaApp"
+    }
+  },
+  "defaultProject": "efacturaApp",
+  "cli": {
+    "analytics": "30f4724c-0f07-43be-a887-634f95cd778a"
+  }
 }
